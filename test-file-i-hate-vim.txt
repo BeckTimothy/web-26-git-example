@@ -2,4 +2,5 @@ I hate vim very much
 I really really hate vim
 please never use vim
 	
-Here's a haiku about my feelings of vim.	
+Here's a haiku about my feelings of vim.
+My second commit, I would like to state that I still hate vim
