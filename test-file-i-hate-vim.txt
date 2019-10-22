@@ -6,3 +6,7 @@ Here's a haiku about my feelings of vim.
 My second commit, I would like to state that I still hate vim
 
 this is a change
+
+
+
+vims actually not that bad, but it's definately subpar for a majority development needs
